@@ -1,8 +1,8 @@
 <template>
   <div class="login_father">
     <div class="login_header clearfix">
-      <!-- <img class="fl" src="../assets/Hisense_img/logo.png" style="width:150px;" alt> -->
-      <img class="fl" :src="'./static/Hisense_img/logo.png'" style="width:150px;" alt>
+      <img class="fl" src="../assets/Hisense_img/logo.png" style="width:150px;" alt>
+      <!-- <img class="fl" src="static/img/logo.png'" style="width:150px;" alt> -->
       
       <h3 class="fl" style="font-weight:400;">权威官网 汇聚精品</h3>
     </div>
